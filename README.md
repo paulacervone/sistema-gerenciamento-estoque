@@ -35,23 +35,9 @@ O sistema possui integração direta com um banco de dados SQL, garantindo que t
 
 Veja como o sistema interage com o usuário no terminal:
 
-```text
---- Sistema de Gerenciamento de Estoque ---
-1. Adicionar Produto
-2. Listar Estoque
-3. Atualizar Quantidade
-4. Sair
-
-Escolha uma opção: 1
-Nome do produto: Tubo de Ensaio
-Quantidade: 500
-Preço unitário: 1.50
-✅ Produto 'Tubo de Ensaio' adicionado com sucesso!
-
-Escolha uma opção: 2
---- Estoque Atual ---
-ID: 1 | Nome: Tubo de Ensaio | Qtd: 500 | Preço: R$ 1.50
-----------------------
+| Visão Geral | Detalhe de Filtros |
+|:---:|:---:|
+| ![Visual 1](./demonstracao_estoque.png)
 
 ---
 ## 👩‍💻 Autora
