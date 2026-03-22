@@ -31,7 +31,27 @@ O sistema possui integração direta com um banco de dados SQL, garantindo que t
 *(Nota: Se houver a necessidade de instalar bibliotecas externas, adicione o comando `pip install -r requirements.txt` nesta seção).*
 
 ## 📸 Demonstração
-*(Dica de Ouro: Tire um "print" da tela do seu sistema rodando ou da tabela do banco de dados e coloque a imagem aqui. Recrutadores adoram ver o projeto funcionando de forma visual!)*
+### 📸 Demonstração de Uso
+
+Veja como o sistema interage com o usuário no terminal:
+
+```text
+--- Sistema de Gerenciamento de Estoque ---
+1. Adicionar Produto
+2. Listar Estoque
+3. Atualizar Quantidade
+4. Sair
+
+Escolha uma opção: 1
+Nome do produto: Tubo de Ensaio
+Quantidade: 500
+Preço unitário: 1.50
+✅ Produto 'Tubo de Ensaio' adicionado com sucesso!
+
+Escolha uma opção: 2
+--- Estoque Atual ---
+ID: 1 | Nome: Tubo de Ensaio | Qtd: 500 | Preço: R$ 1.50
+----------------------
 
 ---
 ## 👩‍💻 Autora
